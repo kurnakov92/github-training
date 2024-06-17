@@ -1,1 +1,2 @@
 Initial text
+Изменения из ветки dev
