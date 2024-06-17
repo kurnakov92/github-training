@@ -1,1 +1,2 @@
 Lesson 2 initial text
+Изменения из some-task ветки
